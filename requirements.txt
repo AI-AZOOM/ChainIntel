@@ -1,8 +1,2 @@
-
----
-
-### ✅ `requirements.txt`
-
-```txt
 flask
 requests
